@@ -1,3 +1,5 @@
+> This repo has been archived and moved [here](https://github.com/etn-ccis/blui-doc-it).
+
 # Doc-It (a.k.a. brightlayer-ui.github.io)
 
 [![CircleCI](https://circleci.com/gh/brightlayer-ui/doc-it/tree/master.svg?style=shield&circle-token=fc2656a76d70b4ff9cdc66cccc758c0dfbf89d25)](https://circleci.com/gh/brightlayer-ui/doc-it/tree/master)
